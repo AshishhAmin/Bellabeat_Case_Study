@@ -1,6 +1,6 @@
 
 
-# Bellabeat Case Study – README
+# Bellabeat Case Study 
 
 A case study project analyzing FitBit smart device usage data to generate actionable marketing insights for **Bellabeat**, a tech-driven wellness company for women. This case study follows a full data analysis process, leveraging public datasets to help Bellabeat refine their strategy and better serve their customers.
 
