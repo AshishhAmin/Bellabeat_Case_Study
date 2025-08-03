@@ -23,7 +23,7 @@ This repository contains the analysis, findings, and insights from a real-world 
 
 ## About Bellabeat
 
-Bellabeat is a high-tech manufacturer of health-focused products for women. Founded in 2013, the company collects and analyzes data related to activity, sleep, stress, and reproductive health to promote well-being. Bellabeat’s core mission is to empower women by providing actionable insights into their personal health and everyday habits[^1][^2][^3].
+Bellabeat is a high-tech manufacturer of health-focused products for women. Founded in 2013, the company collects and analyzes data related to activity, sleep, stress, and reproductive health to promote well-being. Bellabeat’s core mission is to empower women by providing actionable insights into their personal health and everyday habits.
 
 ## Business Task
 
@@ -41,7 +41,7 @@ Bellabeat’s executive leadership wants to:
 - **Sample Size:** Data from 30 FitBit users—including minute-level physical activity, heart rate, and sleep monitoring.
 - **Data Types:** Activity, sleep, heart rate, calories, steps, etc.
 
-> **Note:** The dataset was not originally collected or provided by Bellabeat but is widely used for analytics capstone projects due to its depth and relevance to health-tracking product analysis[^4][^1][^5].
+> **Note:** The dataset was not originally collected or provided by Bellabeat but is widely used for analytics capstone projects due to its depth and relevance to health-tracking product analysis.
 
 ## Analysis Process
 
@@ -52,7 +52,7 @@ This case study generally follows these six steps:
 3. **Process:** Clean and transform the data for analysis (remove duplicates, fix/convert data types, aggregate as needed for trends).
 4. **Analyze:** Explore trends, correlations, and patterns in device usage (activity vs. calories, sleep vs. sedentary behavior, weekday vs. weekend activity, etc.).
 5. **Share:** Visualize and communicate findings (see attached notebooks and PDFs for specific chart outputs).
-6. **Act:** Develop actionable recommendations for Bellabeat based on data-driven insights[^2][^1][^5].
+6. **Act:** Develop actionable recommendations for Bellabeat based on data-driven insights.
 
 ## Repository Structure
 
@@ -103,41 +103,4 @@ Check the notebook and PDF for specific findings generated from this analysis.
 - FitBit data providers on Kaggle.
 - Community contributions and previous case study examples.
 
-*For any questions or collaboration interest, please reach out via the repository’s issue tracker.*
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/Wishwa-code/bellabeat-case-study
-
-[^2]: https://github.com/kantrix/Bellabeat-Case-Study-with-R
-
-[^3]: https://www.linkedin.com/pulse/bellabeat-casestudy-jessie-towey-exeme
-
-[^4]: https://github.com/apurvayadav/Bellabeat-Case-Study
-
-[^5]: https://www.linkedin.com/pulse/bellabeat-case-study-mehrul-singh-ranavat-kwibf
-
-[^6]: https://github.com/AshishhAmin/Bellabeat_Case_Study
-
-[^7]: https://github.com/NikoSeino/Bellabeat-case-study
-
-[^8]: https://github.com/ognimoddd/bellabeat-case-study-r
-
-[^9]: https://github.com/sayantanbagchi/Bellabeat-Case-Study
-
-[^10]: https://www.kaggle.com/code/mustafasultan01/bellabeat-case-study-using-sql-power-bi
-
-[^11]: https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb
-
-[^12]: https://rpubs.com/Ridhimab/1153642
-
-[^13]: https://github.com/ThuHangTranova/Bellabeat_Case_Study
-
-[^14]: https://dagshub.com/ellimans04/Bellabeat-Case-Study
-
-[^15]: https://sites.google.com/view/analyst-vishal/my-projects/bellabeat-case-study
-
-[^16]: https://github.com/denisse-orellana/bellabeat_case
-
-[^17]: https://sites.google.com/view/rauminsportfolio/case-study-1-bellabeat
 
